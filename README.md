@@ -3,6 +3,9 @@
 
 ![Profile Image](https://www.dropbox.com/s/3z5mqlt74swgu2z/ProfileImage.png?raw=1)
 
+![Amit's github stats](https://github-readme-stats.vercel.app/api?username=KumarAmitt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAmitt)](https://github.com/KumarAmitt/github-readme-stats)
+
 <!--
 **AmittArrsh/AmittArrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
