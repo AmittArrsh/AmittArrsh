@@ -3,7 +3,7 @@
 
 ![Profile Image](https://www.dropbox.com/s/3z5mqlt74swgu2z/ProfileImage.png?raw=1)
 
-![Amit's github stats](https://github-readme-stats.vercel.app/api?username=KumarAmitt)
+![Amit's github stats](https://github-readme-stats.vercel.app/api?username=KumarAmitt&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAmitt)](https://github.com/KumarAmitt/github-readme-stats)
 
 <!--
@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
